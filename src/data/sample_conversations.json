@@ -1,1 +1,14 @@
-
+[
+  {
+    "user_id": "user123",
+    "message_id": "msg001",
+    "timestamp": "2026-03-30T12:00:00Z",
+    "text": "Hello, I want to know more about product X"
+  },
+  {
+    "user_id": "user456",
+    "message_id": "msg002",
+    "timestamp": "2026-03-30T12:05:00Z",
+    "text": "Can you recommend me a campaign?"
+  }
+]
